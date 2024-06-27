@@ -1,0 +1,11 @@
+# upgrade pip setuptools
+python -m pip install --upgrade pip setuptools virtualenv
+
+# Virtual Environment
+python -m venv .venv
+
+# Install all the requirements
+pip install -r requirements.txt
+
+# Run the file
+pip streamlit run app.py

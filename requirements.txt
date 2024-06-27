@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+datetime
+scipy
+altair
+pandas
+streamlit_authenticator
