@@ -1,6 +1,6 @@
-# Streamlit App
+# GIS Quality Analysis Streamlit App
 
-This repository contains a Streamlit application created by Divyansh Verma. The app includes various functionalities and uses dummy data for demonstration purposes.
+This repository contains a Streamlit application created by Divyansh Verma. This app's major aim is to analyse the quality check data of Gas Insulated Switchgears using an intuitive and interactive way.
 
 ## Project Structure
 
