@@ -1,8 +1,52 @@
-To view the project visit : https://github.com/divyansh-193/streamlit_app
+# Streamlit App
 
-Enter the login for accessing the app as follows
+This repository contains a Streamlit application created by Divyansh Verma. The app includes various functionalities and uses dummy data for demonstration purposes.
 
-Username: Dummy1
+## Project Structure
 
-Password: password
+- **app.py**: Main application code.
+- **config.yaml**: Configuration file.
+- **requirements.txt**: Dependencies required for the project.
+- **dummy_data_generator.ipynb**: Jupyter notebook to generate dummy data.
+- **180 days.csv**: Sample data file.
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/divyansh-193/streamlit_app.git
+   cd streamlit_app
+   ```
+2. Create a virtual environment and activate it:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+3. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Running the App
+
+To run the Streamlit app, use the following command:
+```bash
+streamlit run app.py
+```
+
+## Usage
+Also you can visit the page [GIS Analysis](https://gis-analysis.streamlit.app/)
+
+The app can be accessed with the following credentials:
+- **Username**: Dummy1
+- **Password**: password
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License.
+
+For more details, visit the [GitHub repository](https://github.com/divyansh-193/streamlit_app/).
